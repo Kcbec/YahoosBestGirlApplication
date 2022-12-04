@@ -1,0 +1,11 @@
+C:\Users\kayce\source\repos\bestGirlApplication\bestGirlApplication\bin\Debug\bestGirlApplication.exe.config
+C:\Users\kayce\source\repos\bestGirlApplication\bestGirlApplication\bin\Debug\bestGirlApplication.exe
+C:\Users\kayce\source\repos\bestGirlApplication\bestGirlApplication\bin\Debug\bestGirlApplication.pdb
+C:\Users\kayce\source\repos\bestGirlApplication\bestGirlApplication\obj\Debug\bestGirlApplication.csproj.AssemblyReference.cache
+C:\Users\kayce\source\repos\bestGirlApplication\bestGirlApplication\obj\Debug\bestGirlApplication.Form1.resources
+C:\Users\kayce\source\repos\bestGirlApplication\bestGirlApplication\obj\Debug\bestGirlApplication.Properties.Resources.resources
+C:\Users\kayce\source\repos\bestGirlApplication\bestGirlApplication\obj\Debug\bestGirlApplication.csproj.GenerateResource.cache
+C:\Users\kayce\source\repos\bestGirlApplication\bestGirlApplication\obj\Debug\bestGirlApplication.csproj.CoreCompileInputs.cache
+C:\Users\kayce\source\repos\bestGirlApplication\bestGirlApplication\obj\Debug\bestGirlApplication.exe
+C:\Users\kayce\source\repos\bestGirlApplication\bestGirlApplication\obj\Debug\bestGirlApplication.pdb
+C:\Users\kayce\source\repos\bestGirlApplication\bestGirlApplication\obj\Debug\bestGirlApplication.Form2.resources
